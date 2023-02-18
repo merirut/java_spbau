@@ -1,1 +1,1 @@
-# java_spbau
+All the descriptions are stored in corresponding folders.
