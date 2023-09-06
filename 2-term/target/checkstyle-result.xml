@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="10.2">
+<file name="/home/mira/Projects/java_spbau/zadachi-2-semestr-merirut/src/main/java/edu/au/javacourse/tasks/lecture13/classwork/Task2.java">
+</file>
+<file name="/home/mira/Projects/java_spbau/zadachi-2-semestr-merirut/src/main/java/edu/au/javacourse/tasks/lecture13/classwork/Task1.java">
+</file>
+<file name="/home/mira/Projects/java_spbau/zadachi-2-semestr-merirut/src/main/java/edu/au/javacourse/tasks/lecture13/homework/Task2.java">
+<error line="9" column="25" severity="error" message="Variable &apos;group1011&apos; must be private and have accessor methods." source="com.puppycrawl.tools.checkstyle.checks.design.VisibilityModifierCheck"/>
+<error line="10" severity="error" message="Line is longer than 120 characters (found 128)." source="com.puppycrawl.tools.checkstyle.checks.sizes.LineLengthCheck"/>
+<error line="11" column="25" severity="error" message="Variable &apos;group3011&apos; must be private and have accessor methods." source="com.puppycrawl.tools.checkstyle.checks.design.VisibilityModifierCheck"/>
+<error line="12" severity="error" message="Line is longer than 120 characters (found 123)." source="com.puppycrawl.tools.checkstyle.checks.sizes.LineLengthCheck"/>
+<error line="13" column="25" severity="error" message="Variable &apos;group3012&apos; must be private and have accessor methods." source="com.puppycrawl.tools.checkstyle.checks.design.VisibilityModifierCheck"/>
+<error line="14" severity="error" message="Line is longer than 120 characters (found 130)." source="com.puppycrawl.tools.checkstyle.checks.sizes.LineLengthCheck"/>
+<error line="15" column="25" severity="error" message="Variable &apos;group2021&apos; must be private and have accessor methods." source="com.puppycrawl.tools.checkstyle.checks.design.VisibilityModifierCheck"/>
+<error line="16" severity="error" message="Line is longer than 120 characters (found 149)." source="com.puppycrawl.tools.checkstyle.checks.sizes.LineLengthCheck"/>
+<error line="17" column="25" severity="error" message="Variable &apos;group2022&apos; must be private and have accessor methods." source="com.puppycrawl.tools.checkstyle.checks.design.VisibilityModifierCheck"/>
+<error line="18" severity="error" message="Line is longer than 120 characters (found 153)." source="com.puppycrawl.tools.checkstyle.checks.sizes.LineLengthCheck"/>
+<error line="20" severity="error" message="Line is longer than 120 characters (found 128)." source="com.puppycrawl.tools.checkstyle.checks.sizes.LineLengthCheck"/>
+<error line="20" column="36" severity="error" message="Variable &apos;groupsList&apos; must be private and have accessor methods." source="com.puppycrawl.tools.checkstyle.checks.design.VisibilityModifierCheck"/>
+<error line="29" severity="error" message="Line is longer than 120 characters (found 155)." source="com.puppycrawl.tools.checkstyle.checks.sizes.LineLengthCheck"/>
+</file>
+<file name="/home/mira/Projects/java_spbau/zadachi-2-semestr-merirut/src/main/java/edu/au/javacourse/tasks/lecture13/homework/Task1.java">
+<error line="7" column="25" severity="error" message="Variable &apos;group1011&apos; must be private and have accessor methods." source="com.puppycrawl.tools.checkstyle.checks.design.VisibilityModifierCheck"/>
+<error line="8" severity="error" message="Line is longer than 120 characters (found 128)." source="com.puppycrawl.tools.checkstyle.checks.sizes.LineLengthCheck"/>
+<error line="9" column="25" severity="error" message="Variable &apos;group3011&apos; must be private and have accessor methods." source="com.puppycrawl.tools.checkstyle.checks.design.VisibilityModifierCheck"/>
+<error line="10" severity="error" message="Line is longer than 120 characters (found 123)." source="com.puppycrawl.tools.checkstyle.checks.sizes.LineLengthCheck"/>
+<error line="11" column="25" severity="error" message="Variable &apos;group3012&apos; must be private and have accessor methods." source="com.puppycrawl.tools.checkstyle.checks.design.VisibilityModifierCheck"/>
+<error line="12" severity="error" message="Line is longer than 120 characters (found 130)." source="com.puppycrawl.tools.checkstyle.checks.sizes.LineLengthCheck"/>
+<error line="13" column="25" severity="error" message="Variable &apos;group2021&apos; must be private and have accessor methods." source="com.puppycrawl.tools.checkstyle.checks.design.VisibilityModifierCheck"/>
+<error line="14" severity="error" message="Line is longer than 120 characters (found 149)." source="com.puppycrawl.tools.checkstyle.checks.sizes.LineLengthCheck"/>
+<error line="15" column="25" severity="error" message="Variable &apos;group2022&apos; must be private and have accessor methods." source="com.puppycrawl.tools.checkstyle.checks.design.VisibilityModifierCheck"/>
+<error line="16" severity="error" message="Line is longer than 120 characters (found 153)." source="com.puppycrawl.tools.checkstyle.checks.sizes.LineLengthCheck"/>
+<error line="18" severity="error" message="Line is longer than 120 characters (found 128)." source="com.puppycrawl.tools.checkstyle.checks.sizes.LineLengthCheck"/>
+<error line="18" column="36" severity="error" message="Variable &apos;groupsList&apos; must be private and have accessor methods." source="com.puppycrawl.tools.checkstyle.checks.design.VisibilityModifierCheck"/>
+<error line="21" severity="error" message="Line is longer than 120 characters (found 124)." source="com.puppycrawl.tools.checkstyle.checks.sizes.LineLengthCheck"/>
+</file>
+<file name="/home/mira/Projects/java_spbau/zadachi-2-semestr-merirut/src/main/java/edu/au/javacourse/tasks/lecture13/homework/Student.java">
+<error line="3" column="58" severity="error" message="&apos;{&apos; is not followed by whitespace." source="com.puppycrawl.tools.checkstyle.checks.whitespace.WhitespaceAroundCheck"/>
+<error line="3" column="59" severity="error" message="&apos;}&apos; is not preceded with whitespace." source="com.puppycrawl.tools.checkstyle.checks.whitespace.WhitespaceAroundCheck"/>
+</file>
+<file name="/home/mira/Projects/java_spbau/zadachi-2-semestr-merirut/src/main/java/edu/au/javacourse/tasks/lecture13/homework/Reference.java">
+<error line="3" column="23" severity="error" message="&apos;{&apos; is not preceded with whitespace." source="com.puppycrawl.tools.checkstyle.checks.whitespace.WhitespaceAroundCheck"/>
+<error line="28" column="33" severity="error" message="&apos;{&apos; is not preceded with whitespace." source="com.puppycrawl.tools.checkstyle.checks.whitespace.WhitespaceAroundCheck"/>
+<error line="29" severity="error" message="Line is longer than 120 characters (found 180)." source="com.puppycrawl.tools.checkstyle.checks.sizes.LineLengthCheck"/>
+<error line="29" column="58" severity="error" message="Use a single space to separate non-whitespace characters." source="com.puppycrawl.tools.checkstyle.checks.whitespace.SingleSpaceSeparatorCheck"/>
+</file>
+<file name="/home/mira/Projects/java_spbau/zadachi-2-semestr-merirut/src/main/java/edu/au/javacourse/tasks/lecture13/homework/StudentGroup.java">
+<error line="5" column="77" severity="error" message="&apos;{&apos; is not followed by whitespace." source="com.puppycrawl.tools.checkstyle.checks.whitespace.WhitespaceAroundCheck"/>
+<error line="5" column="78" severity="error" message="&apos;}&apos; is not preceded with whitespace." source="com.puppycrawl.tools.checkstyle.checks.whitespace.WhitespaceAroundCheck"/>
+</file>
+<file name="/home/mira/Projects/java_spbau/zadachi-2-semestr-merirut/src/main/java/edu/au/javacourse/tasks/lecture12/classwork/Person.java">
+<error line="3" column="44" severity="error" message="&apos;{&apos; is not followed by whitespace." source="com.puppycrawl.tools.checkstyle.checks.whitespace.WhitespaceAroundCheck"/>
+<error line="3" column="45" severity="error" message="&apos;}&apos; is not preceded with whitespace." source="com.puppycrawl.tools.checkstyle.checks.whitespace.WhitespaceAroundCheck"/>
+</file>
+<file name="/home/mira/Projects/java_spbau/zadachi-2-semestr-merirut/src/main/java/edu/au/javacourse/tasks/lecture12/classwork/FilteringContainer.java">
+<error line="20" column="10" severity="error" message="Name &apos;Add&apos; must match pattern &apos;^[a-z][a-zA-Z0-9]*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.MethodNameCheck"/>
+<error line="21" column="32" severity="error" message="&apos;{&apos; at column 32 should have line break after." source="com.puppycrawl.tools.checkstyle.checks.blocks.LeftCurlyCheck"/>
+<error line="21" column="32" severity="error" message="&apos;{&apos; is not followed by whitespace." source="com.puppycrawl.tools.checkstyle.checks.whitespace.WhitespaceAroundCheck"/>
+<error line="21" column="53" severity="error" message="&apos;;&apos; is not followed by whitespace." source="com.puppycrawl.tools.checkstyle.checks.whitespace.WhitespaceAfterCheck"/>
+<error line="21" column="54" severity="error" message="&apos;}&apos; at column 54 should be on the same line as the next part of a multi-block statement (one that directly contains multiple blocks: if/else-if/else, do/while or try/catch/finally)." source="com.puppycrawl.tools.checkstyle.checks.blocks.RightCurlyCheck"/>
+<error line="21" column="54" severity="error" message="&apos;}&apos; is not preceded with whitespace." source="com.puppycrawl.tools.checkstyle.checks.whitespace.WhitespaceAroundCheck"/>
+<error line="22" column="14" severity="error" message="&apos;{&apos; at column 14 should have line break after." source="com.puppycrawl.tools.checkstyle.checks.blocks.LeftCurlyCheck"/>
+<error line="22" column="14" severity="error" message="&apos;{&apos; is not followed by whitespace." source="com.puppycrawl.tools.checkstyle.checks.whitespace.WhitespaceAroundCheck"/>
+<error line="22" column="41" severity="error" message="&apos;;&apos; is not followed by whitespace." source="com.puppycrawl.tools.checkstyle.checks.whitespace.WhitespaceAfterCheck"/>
+<error line="22" column="42" severity="error" message="&apos;}&apos; is not preceded with whitespace." source="com.puppycrawl.tools.checkstyle.checks.whitespace.WhitespaceAroundCheck"/>
+<error line="24" severity="error" message="Line has trailing spaces." source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpSinglelineCheck"/>
+</file>
+<file name="/home/mira/Projects/java_spbau/zadachi-2-semestr-merirut/src/main/java/edu/au/javacourse/tasks/lecture00/classwork/ClassWorkHello.java">
+</file>
+<file name="/home/mira/Projects/java_spbau/zadachi-2-semestr-merirut/src/main/java/edu/au/javacourse/tasks/lecture00/homework/HomeWorkHello.java">
+</file>
+<file name="/home/mira/Projects/java_spbau/zadachi-2-semestr-merirut/src/main/java/edu/au/javacourse/tasks/lecture14/classwork/Task2.java">
+</file>
+<file name="/home/mira/Projects/java_spbau/zadachi-2-semestr-merirut/src/main/java/edu/au/javacourse/tasks/lecture14/classwork/Task1.java">
+</file>
+<file name="/home/mira/Projects/java_spbau/zadachi-2-semestr-merirut/src/main/java/edu/au/javacourse/tasks/lecture14/homework/Task2.java">
+<error line="4" column="8" severity="error" message="Unused import - java.util.List." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+</file>
+<file name="/home/mira/Projects/java_spbau/zadachi-2-semestr-merirut/src/main/java/edu/au/javacourse/tasks/lecture14/homework/Person.java">
+</file>
+<file name="/home/mira/Projects/java_spbau/zadachi-2-semestr-merirut/src/main/java/edu/au/javacourse/tasks/lecture14/homework/Task1.java">
+<error line="6" column="61" severity="error" message="&apos;{&apos; is not preceded with whitespace." source="com.puppycrawl.tools.checkstyle.checks.whitespace.WhitespaceAroundCheck"/>
+</file>
+<file name="/home/mira/Projects/java_spbau/zadachi-2-semestr-merirut/src/main/java/edu/au/javacourse/tasks/lecture11/classwork/Command.java">
+</file>
+<file name="/home/mira/Projects/java_spbau/zadachi-2-semestr-merirut/src/main/java/edu/au/javacourse/tasks/lecture11/classwork/Controller.java">
+</file>
+<file name="/home/mira/Projects/java_spbau/zadachi-2-semestr-merirut/src/main/java/edu/au/javacourse/tasks/lecture11/classwork/CommandProcessor.java">
+<error line="3" column="8" severity="error" message="Unused import - javax.print.attribute.standard.Media." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="35" column="9" severity="error" message="&apos;}&apos; at column 9 should be on the same line as the next part of a multi-block statement (one that directly contains multiple blocks: if/else-if/else, do/while or try/catch/finally)." source="com.puppycrawl.tools.checkstyle.checks.blocks.RightCurlyCheck"/>
+<error line="36" column="9" severity="error" message="&apos;else&apos; is not followed by whitespace." source="com.puppycrawl.tools.checkstyle.checks.whitespace.WhitespaceAfterCheck"/>
+<error line="36" column="13" severity="error" message="&apos;{&apos; is not preceded with whitespace." source="com.puppycrawl.tools.checkstyle.checks.whitespace.WhitespaceAroundCheck"/>
+</file>
+<file name="/home/mira/Projects/java_spbau/zadachi-2-semestr-merirut/src/main/java/edu/au/javacourse/tasks/lecture11/homework/Serialize.java">
+</file>
+<file name="/home/mira/Projects/java_spbau/zadachi-2-semestr-merirut/src/main/java/edu/au/javacourse/tasks/lecture11/homework/Serializer.java">
+</file>
+</checkstyle>
